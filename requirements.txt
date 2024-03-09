@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Add your project dependencies here
+requests==2.26.0
+pytest==7.3.1
+flake8==4.0.1
+# Add more dependencies as needed
