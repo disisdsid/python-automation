@@ -2,7 +2,7 @@ import requests
 import time
 
 api_endpoint = "https://api.openai.com/v1/completions"
-api_key = "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"
+api_key = "my-api-key"
 
 request_headers = {
     "Content-Type": "application/json",
